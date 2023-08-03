@@ -1,12 +1,10 @@
-# TO-DO-LIST
+**Task List**
 
-TO-DO-LIST (Made using HTML5 CSS3 and JavaScript)
+Task List (Developed with HTML5, CSS3, and JavaScript)
 
-You can see the website live at: https://5codeman.github.io/TO-DO-LIST/
+**PROJECT OVERVIEW:**
 
-ABOUT THIS PROJECT-:
-
-  1. In this project i have created a simple to-do app using HTML CSS and JavaScript.
-  2. Built a To-Do List application to make a list of daily works written down in one place.
-  3. Implemented functionalities like add task, remove task, filter tasks and also mark tasks as done.
+1. Within this undertaking, I've produced a straightforward to-do application employing HTML, CSS, and JavaScript.
+2. Constructed an application for generating a to-do list, facilitating the compilation of daily tasks in a single location.
+3. Enforced features such as task addition, task removal, task filtering, and the ability to designate tasks as completed.
  
